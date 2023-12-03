@@ -400,7 +400,7 @@ a:hover, a:focus {
 }
 .page-topbar .logo-area {
     width: 300px;
-    background-color: var(--purple-color);
+    background-color: blue;
     display: block;
     min-height: 60px;
     float: left;

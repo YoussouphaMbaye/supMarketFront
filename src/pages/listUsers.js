@@ -40,7 +40,8 @@ export default function ListUsers() {
                                     <i className="box_close fa fa-times"></i>
                                 </div>
                             </header>
-                            <div className="content-body">    <div className="row">
+                            <div className="content-body">   
+                             <div className="row">
                                     <div className="col-lg-12 col-md-12 col-12">
 
                                         <div className="row">
